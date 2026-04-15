@@ -9,7 +9,7 @@ public class Paciente {
     private int numeroConsultas;
     private int prioridad;
 
-    public Paciente(String nombre, String id, String seguro, int edad, public double costoConsulta, int numeroConsultas, int prioridad) {
+    public Paciente(String nombre, String id, String seguro, int edad, double costoConsulta, int numeroConsultas, int prioridad) {
         this.nombre = nombre;
         this.id = id;
 
